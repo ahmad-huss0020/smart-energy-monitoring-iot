@@ -61,8 +61,3 @@ Design and propose an IoT-based architecture that enables manufacturers to monit
 
 Université Paris-Saclay – Master 2 Informatique IoT  
 Course: Communications et Technologies IoT  
-February 2025
-
-## 📬 Contact
-
-For any questions or feedback, feel free to open an issue or contact us directly.
