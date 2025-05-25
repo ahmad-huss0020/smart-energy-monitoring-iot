@@ -49,8 +49,8 @@ Design and propose an IoT-based architecture that enables manufacturers to monit
 
 ## 📚 Documentation
 
-- [Rapport PDF](./TOPIC_1_COMM_IOT_Rapport.pdf) — Full technical report
-- [Presentation PDF](./Topic%201%20tech%20et%20com%20IoT.pdf) — Slide deck
+- [Rapport PDF](./COMM_IOT_Rapport.pdf) — Full technical report
+- [Presentation PDF](./tech%20et%20com%20IoT%20projet.pdf) — Slide deck
 
 ## 👥 Authors
 
