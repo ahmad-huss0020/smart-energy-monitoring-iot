@@ -50,7 +50,7 @@ Design and propose an IoT-based architecture that enables manufacturers to monit
 ## 📚 Documentation
 
 - [Rapport PDF](./COMM_IOT_Rapport.pdf) — Full technical report
-- [Presentation PDF](./iot-energy-monitoring-platform.pdf) — Slide deck
+- [Presentation PDF](./iot-energy-monitoring-project.pdf) — Slide deck
 
 ## 👥 Authors
 
